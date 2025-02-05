@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #FFD700; /* Fond jaune */
+    max-width: 600px;
+    margin: 0 auto;
+}
